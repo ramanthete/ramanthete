@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ramanthete
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Programming Langauges like Python,Java,HTML,CSS etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @ramanthete  
+📊 Aspiring Data Analyst 
+🐍 Skilled in Python, Pandas, NumPy, Matplotlib, SQL  
+📈 Currently exploring Data Visualization, EDA & Predictive Modeling  
+🤝 Open to collaborations on data-driven projects and analytics challenges  
+📬 Reach me via email: ramanthete@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ramanthete/)
 
 <!---
 ramanthete/ramanthete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

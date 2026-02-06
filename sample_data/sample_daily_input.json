@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-05",
+  "fuel_records": [
+    {
+      "fuel_type": "Petrol",
+      "opening_stock_liters": 5200,
+      "fuel_received_liters": 2000,
+      "closing_stock_actual_liters": 4685,
+      "price_per_liter": 103.45,
+      "nozzles": [
+        {
+          "nozzle_id": "P1",
+          "opening_meter": 125430.5,
+          "closing_meter": 126522.7
+        },
+        {
+          "nozzle_id": "P2",
+          "opening_meter": 98540.2,
+          "closing_meter": 99711.0
+        }
+      ]
+    },
+    {
+      "fuel_type": "Diesel",
+      "opening_stock_liters": 7400,
+      "fuel_received_liters": 3000,
+      "closing_stock_actual_liters": 8122,
+      "price_per_liter": 92.1,
+      "nozzles": [
+        {
+          "nozzle_id": "D1",
+          "opening_meter": 220130.0,
+          "closing_meter": 221280.0
+        },
+        {
+          "nozzle_id": "D2",
+          "opening_meter": 185210.5,
+          "closing_meter": 186100.3
+        }
+      ]
+    }
+  ],
+  "cash_collected": 126000,
+  "digital_collected": 235500,
+  "expenses": [
+    {
+      "description": "Generator diesel",
+      "amount": 4200
+    },
+    {
+      "description": "Staff tea and housekeeping",
+      "amount": 850
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "report_name": "Daily Manager Closing Report",
+  "date": "2026-02-05",
+  "fuel_summary": [
+    {
+      "fuel_type": "Petrol",
+      "price_per_liter": 103.45,
+      "opening_stock_liters": 5200,
+      "fuel_received_liters": 2000,
+      "nozzle_readings": [
+        {
+          "nozzle_id": "P1",
+          "opening_meter": 125430.5,
+          "closing_meter": 126522.7,
+          "fuel_sold_liters": 1092.2
+        },
+        {
+          "nozzle_id": "P2",
+          "opening_meter": 98540.2,
+          "closing_meter": 99711.0,
+          "fuel_sold_liters": 1170.8
+        }
+      ],
+      "total_fuel_sold_liters": 2263.0,
+      "expected_closing_stock_liters": 4937.0,
+      "actual_closing_stock_liters": 4685,
+      "gain_loss_liters": -252.0,
+      "sales_value": 234107.35
+    },
+    {
+      "fuel_type": "Diesel",
+      "price_per_liter": 92.1,
+      "opening_stock_liters": 7400,
+      "fuel_received_liters": 3000,
+      "nozzle_readings": [
+        {
+          "nozzle_id": "D1",
+          "opening_meter": 220130.0,
+          "closing_meter": 221280.0,
+          "fuel_sold_liters": 1150.0
+        },
+        {
+          "nozzle_id": "D2",
+          "opening_meter": 185210.5,
+          "closing_meter": 186100.3,
+          "fuel_sold_liters": 889.8
+        }
+      ],
+      "total_fuel_sold_liters": 2039.8,
+      "expected_closing_stock_liters": 8360.2,
+      "actual_closing_stock_liters": 8122,
+      "gain_loss_liters": -238.2,
+      "sales_value": 187865.58
+    }
+  ],
+  "collections": {
+    "cash_collected": 126000,
+    "digital_collected": 235500,
+    "total_collections": 361500
+  },
+  "expenses": [
+    {
+      "description": "Generator diesel",
+      "amount": 4200
+    },
+    {
+      "description": "Staff tea and housekeeping",
+      "amount": 850
+    }
+  ],
+  "totals": {
+    "total_sales_volume_liters": 4302.8,
+    "total_sales_value": 421972.93,
+    "total_expenses": 5050,
+    "net_cash_to_deposit": 356450
+  },
+  "warnings": [
+    "WARNING: LOSS detected in Petrol: 252.0 liters",
+    "WARNING: LOSS detected in Diesel: 238.2 liters"
+  ]
+}
